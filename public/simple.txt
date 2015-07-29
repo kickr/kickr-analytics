@@ -1,0 +1,132 @@
+
+### TEAM STATS ###
+
+most wins
+3,7: W9 L4
+5,8: W9 L2
+1001,5: W11 L2
+2,5: W13 L1
+3,5: W19 L4
+
+least wins
+3,3: W0 L2
+5,6: W0 L4
+119,5: W0 L2
+147,5: W0 L1
+148,2: W0 L3
+
+
+
+most losses
+1128,7: W2 L5
+28,3: W1 L6
+2,8: W3 L7
+2,4: W1 L7
+2,3: W5 L10
+
+least losses
+4,4: W1 L0
+2,667: W1 L0
+148,5: W2 L0
+12,16: W2 L0
+2,2: W1 L0
+
+
+
+most games
+3,7: W9 L4
+1001,5: W11 L2
+2,5: W13 L1
+2,3: W5 L10
+3,5: W19 L4
+
+least games
+147,5: W0 L1
+4,4: W1 L0
+2,667: W1 L0
+2,6: W0 L1
+119,3: W0 L1
+
+
+
+most win/total ratio
+1353,7: W1 L0
+1001,6: W1 L0
+1353,5: W1 L0
+16,16: W1 L0
+1300,3: W2 L0
+
+least win/total ratio
+28,7: W0 L5
+5,6: W0 L4
+4,7: W0 L4
+2,4: W1 L7
+28,3: W1 L6
+
+
+
+most win-loss difference
+16,5: W7 L1
+5,8: W9 L2
+1001,5: W11 L2
+2,5: W13 L1
+3,5: W19 L4
+
+least win-loss difference
+2,4: W1 L7
+28,3: W1 L6
+2,3: W5 L10
+28,7: W0 L5
+2,8: W3 L7
+
+
+
+### PLAYER STATS ###
+
+most games
+8: W29 L27
+2: W26 L34
+7: W22 L38
+3: W55 L42
+5: W83 L28
+
+least games
+667: W1 L0
+147: W0 L2
+1353: W2 L0
+119: W0 L3
+6: W1 L5
+
+
+
+most win/total ratio
+1001: W27 L23
+3: W55 L42
+5: W83 L28
+667: W1 L0
+1353: W2 L0
+
+least win/total ratio
+28: W4 L22
+119: W0 L3
+6: W1 L5
+147: W0 L2
+1213: W5 L11
+
+
+
+most win-loss difference
+16: W16 L14
+1353: W2 L0
+1001: W27 L23
+3: W55 L42
+5: W83 L28
+
+least win-loss difference
+28: W4 L22
+7: W22 L38
+4: W14 L26
+2: W26 L34
+148: W6 L12
+
+
